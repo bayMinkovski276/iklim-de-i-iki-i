@@ -1,1 +1,3 @@
-# iklim-de-i-iki-i
+
+## Projemin fikri:
+>Ben iklim değişiklğiyle mücadele edecek oyunlaştırılmış bir proje geliştireceğim
